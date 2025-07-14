@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(201, 201, 224);
+  background-color: red;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
